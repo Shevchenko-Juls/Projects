@@ -1,7 +1,7 @@
-___Project objective:___
+Project objective:
 Predict the concentration of gold during the gold purification process
 
-__Project description:__
+Project description:
 A machine learning model is being built for an industrial company that develops solutions for the efficient operation of industrial enterprises. 
 The model must predict the recovery rate of gold from gold ore based on data with mining and refining parameters. 
 The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
