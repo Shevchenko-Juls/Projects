@@ -1,4 +1,5 @@
 Apartments for sale in St. Petersburg - analysis of the real estate market
+
 Skills and Tools: Matplotlib,Pandas,Python,Data visualization, exploratory data analysis, data preprocessing
 
 Project objectives:
